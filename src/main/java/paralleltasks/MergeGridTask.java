@@ -1,6 +1,6 @@
 package paralleltasks;
 
-import cse332.exceptions.NotYetImplementedException;
+import processing.exceptions.NotYetImplementedException;
 
 import java.util.concurrent.RecursiveAction;
 

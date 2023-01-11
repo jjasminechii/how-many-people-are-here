@@ -1,8 +1,8 @@
 package queryresponders;
 
-import cse332.interfaces.QueryResponder;
-import cse332.types.CensusGroup;
-import cse332.types.MapCorners;
+import processing.interfaces.QueryResponder;
+import processing.types.CensusGroup;
+import processing.types.MapCorners;
 
 public class ComplexSequential extends QueryResponder {
     private int[][] array;

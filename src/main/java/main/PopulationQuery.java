@@ -1,8 +1,8 @@
 package main;
 
-import cse332.interfaces.QueryResponder;
-import cse332.types.CensusData;
-import cse332.types.CensusGroup;
+import processing.interfaces.QueryResponder;
+import processing.types.CensusData;
+import processing.types.CensusGroup;
 import queryresponders.*;
 
 import java.io.BufferedReader;

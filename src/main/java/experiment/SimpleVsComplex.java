@@ -1,6 +1,6 @@
 package experiment;
 
-import cse332.types.CensusGroup;
+import processing.types.CensusGroup;
 import main.PopulationQuery;
 import queryresponders.ComplexSequential;
 import queryresponders.SimpleSequential;

@@ -1,7 +1,7 @@
 package ckpt1;
 
 import base.QueryResponderTests;
-import cse332.types.CensusGroup;
+import processing.types.CensusGroup;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import queryresponders.SimpleParallel;

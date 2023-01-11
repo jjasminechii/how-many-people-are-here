@@ -1,8 +1,8 @@
 package paralleltasks;
 
-import cse332.exceptions.NotYetImplementedException;
-import cse332.types.CensusGroup;
-import cse332.types.MapCorners;
+import processing.exceptions.NotYetImplementedException;
+import processing.types.CensusGroup;
+import processing.types.MapCorners;
 
 import java.util.concurrent.RecursiveTask;
 

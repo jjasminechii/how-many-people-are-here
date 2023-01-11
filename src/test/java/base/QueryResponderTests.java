@@ -1,7 +1,7 @@
 package base;
 
-import cse332.interfaces.QueryResponder;
-import cse332.types.CensusGroup;
+import processing.interfaces.QueryResponder;
+import processing.types.CensusGroup;
 import main.PopulationQuery;
 
 // Base utility class that initializes data before tests.
